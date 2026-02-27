@@ -1,4 +1,4 @@
-# 🏁 Привет, я eshka6! [ 1666 ]
+# 🏁 Привет, я eshka6!
 
 ### 🌐 Digital Outlaw from Saint-Petersburg
 Юный разработчик, фанат BMW могу рулить на Javascript И по Python. Ковыряю код, пока Intel N95 не закипит. 🏎️💨
